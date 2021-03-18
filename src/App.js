@@ -7,15 +7,17 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          <h1>Hello World! </h1><br/>
+          <h2>I'm Kougar.</h2> 
         </p>
+        
         <a
-          className="App-link"
-          href="https://reactjs.org"
+          className="DockerHub-link"
+          href="https://hub.docker.com/r/kunlapath/react-app"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          To watch my DockerHub
         </a>
       </header>
     </div>
